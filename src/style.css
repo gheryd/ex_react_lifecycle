@@ -1,0 +1,14 @@
+
+.app-container-main{
+    margin-top:20px;
+}
+
+.list-group-item{
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.list-group-item.active{
+    color: white;
+}
